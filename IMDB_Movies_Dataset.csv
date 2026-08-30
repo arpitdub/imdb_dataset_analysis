@@ -1,0 +1,501 @@
+Movie_title,Year,Genre,Language,Country,Imdb_rating,Total_reviews,Voted_users,Duration_minutes
+The Host,2018,Comedy,Korean,South Korea,7,363,238760,94
+Lady Vengeance,2004,Crime,Korean,South Korea,9,202,399371,104
+Fateless,1997,Drama,Hungarian,Hungary,7.4,73,307503,115
+Princess Mononoke,2010,Adventure,Japanese,Japan,4.6,174,447341,154
+Steamboy,2008,Action,Japanese,Japan,9.2,105,314742,130
+Akira,2012,Action,Japanese,Japan,7.5,150,146823,94
+Godzilla 2000,2000,Action,Japanese,Japan,5.8,107,122913,147
+Tango,2000,Drama,Spanish,Spain,4.8,35,263170,100
+Kabhi Alvida Naa Kehna,2013,Drama,Hindi,India,8.4,20,331404,92
+Kites,2013,Action,English,India,7.4,41,48337,165
+Red Cliff,1992,Action,Mandarin,China,6.9,160,261050,98
+The Legend of Suriyothai,2011,Action,Thai,Thailand,8.9,31,274180,113
+The Messenger: The Story of Joan of Arc,1991,Adventure,English,France,8.3,111,29041,157
+Pirates of the Caribbean: At World's End,2013,Action,English,USA,4.8,302,79583,147
+Ong-bak 2,2019,Action,Thai,Thailand,5.7,110,444743,131
+John Carter,1991,Action,English,USA,5.4,462,35031,106
+Tangled,2010,Adventure,English,USA,8.1,324,271356,108
+Spider-Man 3,2022,Action,English,USA,4.2,392,366745,107
+Harry Potter and the Half-Blood Prince,2001,Adventure,English,UK,7.1,375,328099,114
+Pirates of the Caribbean: On Stranger Tides,2011,Action,English,USA,8.2,448,75244,87
+The Dark Knight Rises,2014,Action,English,USA,8.8,813,253359,95
+The Hobbit: The Battle of the Five Armies,2016,Adventure,English,New Zealand,5.9,422,130249,115
+Avengers: Age of Ultron,2017,Action,English,USA,8.5,635,267753,109
+Spectre,2005,Action,English,UK,4.6,602,311912,97
+Avatar,2004,Action,English,USA,8.7,723,232309,81
+The Amazing Spider-Man,1992,Action,English,USA,4.7,599,317259,128
+Pirates of the Caribbean: Dead Man's Chest,1996,Action,English,USA,6.2,313,83003,156
+The Chronicles of Narnia: Prince Caspian,2010,Action,English,USA,8.4,258,254846,83
+Men in Black 3,1998,Action,English,USA,4.8,451,423475,169
+Man of Steel,2007,Action,English,USA,5.3,,86208,168
+The Hobbit: The Desolation of Smaug,1993,Adventure,English,USA,8,509,191684,173
+The Avengers,2014,Action,English,USA,8,703,102971,154
+Oz the Great and Powerful,2003,Adventure,English,USA,7.5,525,254725,86
+The Lone Ranger,1998,Action,English,USA,7.8,450,158161,174
+X-Men: The Last Stand,2015,Action,English,Canada,7,334,161587,153
+Transformers: Age of Extinction,1991,Action,English,USA,5.4,378,160581,118
+Superman Returns,2009,Action,English,USA,5.9,434,345953,92
+Battleship,2017,Action,English,USA,5,377,389090,110
+King Kong,1996,Action,English,New Zealand,9,446,193618,150
+Titanic,1997,Drama,English,USA,7.2,315,369305,142
+Terminator 3: Rise of the Machines,2003,Action,English,USA,6.2,280,157715,135
+Spider-Man 2,2006,Action,English,USA,6.5,300,6654,121
+The Protector,1993,Action,Thai,Thailand,9.2,112,153376,140
+Quantum of Solace,1991,Action,English,UK,4.8,403,435404,121
+Fantastic Four,1995,Action,English,USA,7.2,367,64788,135
+A Christmas Carol,1993,Animation,English,USA,6.8,240,51695,115
+Terminator Salvation,2018,Action,English,USA,7.4,422,283225,163
+Transformers: Revenge of the Fallen,2007,Action,English,USA,4.1,,446364,147
+Alice in Wonderland,2015,Adventure,English,USA,8.8,451,292731,86
+Iron Man 2,2023,Action,English,USA,9.1,453,181502,133
+Prince of Persia: The Sands of Time,1999,Action,English,USA,7.1,306,164553,80
+Robin Hood,2003,Action,English,USA,7.8,343,69798,123
+Toy Story 3,2020,Adventure,English,USA,9.1,453,308811,124
+Cars 2,2004,Adventure,English,USA,7.9,304,206876,126
+Green Lantern,1997,Action,English,USA,4.8,436,437124,92
+Skyfall,2003,Action,English,UK,7.2,750,39999,101
+Iron Man 3,2012,Action,English,USA,7.3,608,388460,100
+Monsters University,2010,Adventure,English,USA,6.3,376,445985,165
+The Amazing Spider-Man 2,2005,Action,English,USA,8.1,495,170131,171
+X-Men: Days of Future Past,2007,Action,English,USA,9.1,539,245698,88
+Transformers: Dark of the Moon,2013,Action,English,USA,9.1,,468035,105
+Jack the Giant Slayer,2015,Adventure,English,USA,6.5,338,243497,88
+Pacific Rim,2014,Action,English,USA,4.6,575,489033,94
+Star Trek Into Darkness,2018,Action,English,USA,9.4,590,96847,89
+World War Z,2004,Action,English,USA,8.6,654,311431,167
+Furious 7,1990,Action,English,USA,4.7,424,298132,121
+Tomorrowland,2014,Action,English,USA,9.1,443,337085,151
+Indiana Jones and the Kingdom of the Crystal Skull,1996,Action,English,USA,8.8,470,206235,103
+The Dark Knight,1998,Action,English,USA,6.9,645,22931,159
+Brave,2013,Adventure,English,USA,7.3,488,324325,128
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",1990,Adventure,English,USA,6.2,284,195055,105
+The Golden Compass,1997,Adventure,English,USA,4.3,251,123220,170
+WALL·E,2013,Adventure,English,USA,5.8,421,49653,116
+The Hobbit: An Unexpected Journey,2000,Adventure,English,USA,8.4,645,269012,147
+Maleficent,2006,Action,English,USA,4,401,421140,129
+Edge of Tomorrow,1997,Action,English,USA,5.8,585,375004,103
+Jupiter Ascending,2022,Action,English,USA,6.2,384,176576,98
+Waterworld,1994,Action,English,USA,7,91,477585,179
+Troy,2017,Adventure,English,USA,9.1,220,220224,139
+Evan Almighty,1996,Comedy,English,USA,5.9,186,375399,118
+G.I. Joe: The Rise of Cobra,1998,Action,English,USA,5.9,250,57485,153
+Monsters vs. Aliens,1997,Action,English,USA,8.1,219,312713,168
+Up,2001,Adventure,English,USA,6.5,408,314970,97
+47 Ronin,2023,Action,English,USA,5.2,218,109237,98
+Inside Out,2022,Adventure,English,USA,6.5,536,212633,115
+Wild Wild West,2012,Action,English,USA,4.8,85,154970,153
+TRON: Legacy,2013,Action,English,USA,5,469,229965,176
+Hugo,2011,Adventure,English,USA,6.7,682,51361,134
+Snow White and the Huntsman,2016,Action,English,USA,6.3,416,338541,148
+Thor: The Dark World,1990,Action,English,USA,9,486,213477,126
+Captain America: The Winter Soldier,2003,Action,English,USA,6,576,127618,128
+Dawn of the Planet of the Apes,1992,Action,English,USA,7.2,521,331221,178
+Guardians of the Galaxy,1990,Action,English,USA,7.5,653,197213,177
+The Polar Express,1994,Adventure,English,USA,4.1,188,9578,112
+How to Train Your Dragon,2015,Adventure,English,USA,7.6,288,418719,100
+Shrek Forever After,2003,Adventure,English,USA,5,226,325412,160
+Wreck-It Ralph,2016,Adventure,English,USA,9.3,377,51547,101
+Big Hero 6,1998,Action,English,USA,4.8,384,334270,127
+Interstellar,2004,Adventure,English,USA,6.3,712,320304,116
+Speed 2: Cruise Control,2004,Action,English,USA,4.5,79,235958,94
+Winged Migration,2015,Documentary,English,France,9.5,100,443502,114
+Poseidon,2002,Action,English,USA,6.8,231,395641,171
+Shrek the Third,2021,Adventure,English,USA,7.3,227,215548,150
+Inception,2021,Action,English,USA,4.4,642,236793,111
+X-Men: First Class,1993,Action,English,USA,8.1,500,118332,90
+The Hunger Games: Mockingjay - Part 2,2019,Adventure,English,USA,5.2,389,393050,89
+Alexander,2012,Action,English,Germany,8.9,248,125650,152
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2004,Adventure,English,USA,5.1,228,157587,157
+Terminator Genisys,2018,Action,English,USA,5,474,33820,156
+Master and Commander: The Far Side of the World,2002,Action,English,USA,4.2,244,327525,136
+The Matrix Reloaded,2021,Action,English,USA,6.6,275,91327,104
+The Matrix Revolutions,1996,Action,English,Australia,7.1,245,364859,81
+Shrek 2,2011,Adventure,English,USA,4.4,205,420005,143
+Batman Begins,2017,Action,English,USA,8.3,478,260431,114
+Charlie and the Chocolate Factory,1991,Adventure,English,USA,6.5,276,397105,86
+Chicken Little,1995,Adventure,English,USA,6.9,161,419399,164
+Harry Potter and the Goblet of Fire,2017,Adventure,English,UK,6.4,295,407345,97
+Casino Royale,2017,Action,English,UK,6.2,400,324194,146
+Mission: Impossible III,2009,Action,English,USA,7.1,310,25326,121
+Bee Movie,2019,Adventure,English,USA,4.9,194,101234,118
+Beowulf,2000,Action,English,USA,5,287,158202,120
+Harry Potter and the Order of the Phoenix,2017,Adventure,English,UK,8.7,329,230334,154
+I Am Legend,2014,Drama,English,USA,9.2,323,177735,103
+Ratatouille,2022,Animation,English,USA,6.1,318,99011,139
+Transformers,1990,Action,English,USA,5.5,396,460151,125
+Bolt,2016,Adventure,English,USA,7.5,225,274297,98
+Hancock,2002,Action,English,USA,6.2,318,159533,147
+Madagascar: Escape 2 Africa,1992,Action,English,USA,4.1,167,82441,169
+The Curious Case of Benjamin Button,1995,Drama,English,USA,4.9,362,205709,121
+The Incredible Hulk,1997,Action,English,USA,7.9,354,296306,111
+Angels & Demons,2016,Mystery,English,USA,7.6,298,99318,118
+G-Force,1998,Action,English,USA,4.1,145,450162,115
+Night at the Museum: Battle of the Smithsonian,2022,Adventure,English,USA,5.2,185,152860,176
+Paa,2013,Comedy,Hindi,India,5.3,12,254127,115
+Star Trek,2004,Action,English,USA,7.7,518,95581,82
+X-Men Origins: Wolverine,2021,Action,English,USA,4.1,350,37377,152
+The Last Airbender,2021,Action,English,USA,4.6,280,374206,87
+The Sorcerer's Apprentice,2013,Action,English,USA,8.4,235,409029,176
+The Wolfman,2001,Drama,English,USA,5,357,212457,149
+Kung Fu Panda 2,1991,Action,English,USA,7.6,284,73215,120
+Mars Needs Moms,1992,Action,English,USA,5.3,132,141898,147
+Thor,2006,Action,English,USA,4.5,516,110591,92
+Wrath of the Titans,1991,Action,English,USA,5.3,310,133132,128
+Frozen,1991,Adventure,English,USA,8,406,341792,139
+White House Down,2017,Action,English,USA,8.7,339,83686,81
+Jurassic World,2012,Action,English,USA,8.6,644,420461,139
+Mad Max: Fury Road,2021,Action,English,Australia,6.2,739,163462,84
+Mission: Impossible - Rogue Nation,2022,Action,English,China,7.7,465,151594,123
+Pan,1990,Adventure,English,USA,5.1,256,386273,106
+Flushed Away,2008,Adventure,English,UK,5.6,135,446295,111
+The Mummy: Tomb of the Dragon Emperor,1991,Action,English,USA,8.9,264,70816,100
+Mission: Impossible - Ghost Protocol,2015,Action,English,USA,4.1,432,477563,87
+Madagascar 3: Europe's Most Wanted,2021,Adventure,English,USA,4.5,,28880,151
+Rise of the Guardians,1995,Adventure,English,USA,5.1,256,110698,129
+How to Train Your Dragon 2,2021,Action,English,USA,4.1,292,265000,146
+Mr. Peabody & Sherman,1993,Adventure,English,USA,5,196,70826,123
+Die Another Day,2000,Action,English,UK,7.2,264,355091,137
+Armageddon,2006,Action,English,USA,6.3,167,115494,82
+Les couloirs du temps: Les visiteurs II,2013,Comedy,French,France,8.9,8,221471,165
+Lethal Weapon 4,1994,Action,English,USA,8.5,141,282693,149
+The Perfect Storm,2023,Action,English,USA,5.9,231,469433,81
+Pearl Harbor,1995,Action,English,USA,5.4,191,368005,166
+Men in Black II,2011,Action,English,USA,6.1,208,278726,123
+Treasure Planet,2000,Adventure,English,USA,7.2,127,263305,81
+Pirates of the Caribbean: The Curse of the Black Pearl,2005,Action,English,USA,5.5,271,168984,160
+The Last Samurai,2022,Action,English,USA,7.4,190,265564,114
+Rush Hour 3,1998,Action,English,USA,6.3,162,484910,177
+Iron Man,1995,Action,English,USA,7,486,245878,166
+Captain America: The First Avenger,2005,Action,English,USA,6.4,510,454031,109
+Exodus: Gods and Kings,2018,Action,English,UK,5.6,314,342205,87
+Spider-Man,1992,Action,English,USA,9.2,291,271590,101
+Final Fantasy: The Spirits Within,2009,Action,English,USA,8.2,166,225814,123
+Hulk,2008,Action,English,USA,4.8,267,439216,137
+The World Is Not Enough,2015,Action,English,UK,8.8,197,236112,115
+Stealth,1992,Action,English,USA,6.7,145,278953,148
+Happy Feet 2,2008,Animation,English,Australia,8.9,156,55730,156
+Rango,2009,Adventure,English,USA,8.4,362,374466,172
+The Adventures of Tintin,2021,Action,English,USA,6.3,440,492372,110
+The Croods,1996,Adventure,English,USA,4.1,257,423743,126
+Turbo,2022,Adventure,English,USA,5.5,166,466257,134
+Home,2007,Adventure,English,USA,7,165,374984,159
+The Revenant,1990,Adventure,English,USA,7.5,556,59821,141
+Stuart Little,2000,Adventure,English,Germany,5.4,101,132528,109
+War of the Worlds,2017,Adventure,English,USA,4.8,401,231947,134
+Penguins of Madagascar,2014,Adventure,English,USA,8.6,153,336775,95
+Bad Boys II,2012,Action,English,USA,9.4,94,441624,91
+Harry Potter and the Prisoner of Azkaban,2020,Adventure,English,UK,6.9,274,472055,96
+Kingdom of Heaven,2019,Action,English,USA,4.9,239,288607,95
+Sahara,1996,Action,English,UK,5.5,163,102257,91
+Fantastic 4: Rise of the Silver Surfer,2005,Action,English,USA,4.1,262,433159,87
+Days of Our life,2015,Adventure,English,Australia,9,245,361903,163
+Kung Fu Panda,1991,Action,English,USA,4.6,266,301707,82
+Watchmen,1990,Action,English,USA,7.2,451,376869,95
+Megamind,2001,Action,English,USA,5.5,233,379044,109
+Puss in Boots,1994,Action,English,USA,7,246,343462,102
+Prometheus,2021,Adventure,English,USA,7.6,775,267347,171
+After Earth,1998,Action,English,USA,8.6,349,196700,84
+G.I. Joe: Retaliation,2008,Action,English,USA,5.1,351,72599,163
+R.I.P.D.,2005,Action,English,USA,4.1,208,419565,144
+The Hunger Games: Catching Fire,1992,Adventure,English,USA,4.8,502,163432,109
+Ant-Man,2009,Action,English,USA,9,517,32085,100
+Dinosaur,2013,Adventure,English,,8.8,145,415731,163
+Night at the Museum: Secret of the Tomb,2022,Adventure,English,USA,7.3,154,471255,149
+The Island,2013,Action,English,USA,7.3,257,44085,101
+Batman & Robin,2000,Action,English,USA,7.7,183,289602,161
+Mission: Impossible II,1997,Action,English,USA,5,237,288661,151
+Harry Potter and the Sorcerer's Stone,2009,Adventure,English,UK,9,258,470423,111
+The Day After Tomorrow,2014,Action,English,USA,6.3,239,387321,112
+The Da Vinci Code,2014,Mystery,English,USA,6.1,294,439066,95
+Clash of the Titans,2018,Action,English,USA,6.9,344,405917,155
+Fast Five,2007,Action,English,USA,4.3,342,292070,117
+Sherlock Holmes: A Game of Shadows,2007,Action,English,USA,4.9,382,280422,177
+The Bourne Legacy,1991,Action,English,USA,8.1,436,176813,93
+Noah,2005,Action,English,USA,4.5,434,42729,115
+Teenage Mutant Ninja Turtles,2022,Action,English,USA,7.3,348,87152,176
+The Hunger Games: Mockingjay - Part 1,1993,Adventure,English,USA,5.3,403,390911,102
+How the Grinch Stole Christmas,2022,Comedy,English,USA,6.1,175,249974,145
+A Bug's Life,2003,Adventure,English,USA,5.6,117,179936,164
+Atlantis: The Lost Empire,2010,Action,English,USA,6,146,492549,81
+Stuart Little 2,2009,Adventure,English,USA,8,71,389147,170
+Charlie's Angels: Full Throttle,1997,Action,English,USA,5.6,102,260616,152
+"I, Robot",1996,Action,English,USA,7.1,225,347522,144
+Mr. & Mrs. Smith,1992,Action,English,USA,6.6,233,319700,154
+Cars,2006,Adventure,English,USA,7.7,256,421206,146
+Speed Racer,2022,Action,English,USA,9.2,284,20475,131
+How Do You Know,2001,Comedy,English,USA,8,168,158295,141
+The Green Hornet,2011,Action,English,USA,5.2,447,416995,102
+Life of Pi,2011,Adventure,English,USA,4.2,552,209873,105
+The Twilight Saga: Breaking Dawn - Part 2,2019,Adventure,English,USA,5.4,322,405277,147
+Oblivion,1997,Action,English,USA,7.3,539,197633,161
+The Wolverine,2016,Action,English,USA,4.3,440,351041,134
+Fantastic Four,2016,Action,English,USA,6.7,369,180725,85
+Knight and Day,2023,Action,English,USA,7.3,283,295786,114
+Dante's Peak,2010,Action,English,USA,5.8,93,289560,101
+True Lies,2019,Action,English,USA,8.2,94,64824,122
+Star Wars: Episode I - The Phantom Menace,2022,Action,English,USA,4.6,320,176537,94
+Lara Croft: Tomb Raider,2017,Action,English,USA,4.4,199,388576,165
+"Monsters, Inc.",2022,Adventure,English,USA,8,250,136220,139
+Star Wars: Episode II - Attack of the Clones,1994,Action,English,USA,6.7,284,166705,91
+Windtalkers,2008,Action,English,USA,7.8,152,444393,128
+Elysium,1993,Action,English,USA,6.4,476,96559,121
+Star Wars: Episode III - Revenge of the Sith,2006,Action,English,USA,5.4,359,488304,117
+Gulliver's Travels,2017,Adventure,English,USA,8.5,184,493666,161
+Tomorrow Never Dies,2019,Action,English,UK,8.4,160,98817,124
+The Patriot,2018,Action,English,USA,7.8,192,201707,114
+X-Men 2,1995,Action,English,Canada,5.5,289,297690,109
+Around the World in 80 Days,2013,Action,English,USA,7.2,188,440780,167
+Home on the Range,2018,Animation,English,USA,6,104,101959,109
+Ocean's Twelve,2020,,English,USA,4.5,198,238197,157
+The Aviator,2022,Biography,English,USA,9,267,200922,85
+Night at the Museum,2010,Action,English,USA,4.8,179,308537,146
+Ghost Rider,2021,Action,English,USA,9.2,276,102020,159
+Live Free or Die Hard,2012,Action,English,USA,6.5,354,388462,86
+The Bourne Ultimatum,2022,Action,English,USA,5,329,61772,131
+Salt,1992,Action,English,USA,7,330,223724,93
+Real Steel,2007,Action,English,USA,8.8,327,330293,152
+The Smurfs,2014,Adventure,English,USA,8,172,327318,94
+Ender's Game,2020,Action,English,USA,8.4,326,145332,100
+300: Rise of an Empire,1992,Action,English,USA,7.6,366,153499,114
+Insurgent,2013,Adventure,English,USA,7.8,263,349119,145
+San Andreas,2021,Action,English,USA,8.7,358,61867,170
+The Cat in the Hat,2011,Adventure,English,USA,5.4,109,229527,81
+The Martian,2012,Adventure,English,USA,6.7,568,406304,114
+Ali,1991,Biography,English,USA,5.2,174,384394,161
+The Alamo,2016,Drama,English,USA,9.4,106,233250,157
+Starship Troopers,1991,Action,English,USA,9.2,192,236306,99
+Antz,2015,Adventure,English,USA,4.2,131,380798,161
+The Chronicles of Riddick,2006,Action,English,USA,7.9,207,183805,89
+The Princess and the Frog,2022,Animation,English,USA,9.1,228,45238,104
+The Great Gatsby,1998,Drama,English,Australia,5,490,33897,145
+The Smurfs 2,2018,Adventure,English,USA,7.1,125,344833,104
+Point Break,2015,Action,English,USA,9,163,339011,133
+Gladiator,2014,Action,English,USA,4.2,265,202832,112
+Amen.,2013,Biography,English,France,7.8,69,383229,115
+Rio 2,2002,Adventure,English,USA,5.6,159,339263,174
+Terminator 2: Judgment Day,1996,Action,English,USA,9.1,210,111953,93
+Minority Report,2009,Action,English,USA,9.3,252,20316,144
+Cloud Atlas,1990,Drama,English,Germany,9.2,511,435956,159
+Dick Tracy,1997,Action,English,USA,6.6,72,399992,133
+Batman Forever,2005,Action,English,USA,8.7,144,245511,131
+Eraser,2003,Action,English,USA,8.6,81,497915,82
+The Hunchback of Notre Dame,2001,Animation,English,USA,5.8,80,342174,178
+Bicentennial Man,2012,Comedy,English,USA,8.6,93,417215,120
+The Emperor's New Groove,2004,Adventure,English,USA,4.2,141,482292,85
+The Widow of Saint-Pierre,2017,Drama,French,France,7.3,61,371500,104
+What Lies Beneath,2023,Drama,English,USA,5.3,185,214067,92
+A.I. Artificial Intelligence,1991,Adventure,English,USA,4.7,281,72135,177
+Planet of the Apes,2021,Action,English,USA,4.4,230,370447,87
+Gangs of New York,2012,Crime,English,USA,7.8,233,216684,100
+Harry Potter and the Chamber of Secrets,2011,Adventure,English,UK,5.9,232,298590,177
+K-19: The Widowmaker,2014,Drama,English,UK,8,136,317848,147
+The Adventures of Pluto Nash,2011,Action,English,USA,4.4,66,183458,104
+Catwoman,2011,Action,English,USA,5.7,212,465368,158
+Hidalgo,1995,Action,English,USA,7,140,278207,
+House of Flying Daggers,2004,Action,Mandarin,China,8.3,248,92824,124
+National Treasure,2022,Action,English,USA,5.8,193,224036,139
+Fun with Dick and Jane,1997,Comedy,English,USA,7.4,135,233444,91
+Blood Diamond,1994,Adventure,English,Germany,8.9,166,272491,111
+Eragon,1993,Action,English,USA,7.4,170,26655,175
+Happy Feet,1995,Animation,English,USA,5.3,206,342315,171
+American Gangster,2021,Biography,English,USA,4.1,300,117391,92
+Surf's Up,2019,Animation,English,USA,8.8,154,345954,110
+Cloudy with a Chance of Meatballs,2005,Animation,English,USA,4.1,191,460994,157
+Land of the Lost,2002,Adventure,English,USA,8.8,167,149881,99
+Public Enemies,2019,Biography,English,USA,6.9,357,132191,97
+The Taking of Pelham 1 2 3,2008,Action,English,USA,9.2,267,476910,172
+Frozen,1991,Adventure,English,USA,8,406,341792,139
+Green Zone,2008,Action,English,France,9.5,266,35207,142
+Little Fockers,2017,Comedy,English,USA,5.9,180,414053,85
+Sex and the City 2,2015,Comedy,English,USA,8.2,221,344181,111
+The Other Guys,2015,Action,English,USA,6.2,265,198076,172
+The Tourist,2012,Action,English,USA,6.6,321,179186,122
+Unstoppable,1998,Action,English,USA,7.5,316,223000,81
+Arthur Christmas,2001,Adventure,English,UK,8.8,190,353799,139
+Dark Shadows,1990,Comedy,English,USA,9.4,526,262925,102
+Django Unchained,1990,Drama,English,USA,8.2,765,158992,162
+Epic,2023,Adventure,English,USA,6.3,203,474612,110
+Gravity,2021,Adventure,English,UK,6.3,738,170602,84
+The Wolf of Wall Street,2014,Biography,English,USA,8.1,606,394774,162
+Hercules,1990,Action,English,USA,5.3,245,217785,113
+RoboCop,2005,Action,English,USA,4.6,492,338904,89
+Transcendence,1994,Drama,English,UK,6,355,159976,168
+In the Heart of the Sea,2011,Action,English,USA,5.6,289,235054,81
+The Peanuts Movie,2018,Adventure,English,USA,5.6,208,499000,90
+Cutthroat Island,1992,Action,English,USA,5.3,61,161428,129
+The Mummy Returns,2001,Action,,USA,4.2,202,140772,110
+The General's Daughter,2015,Drama,English,USA,4.1,113,326822,135
+Hollow Man,2005,Action,English,USA,9.4,180,296641,158
+The Road to El Dorado,2011,Adventure,English,USA,6.4,82,419327,152
+Lara Croft Tomb Raider: The Cradle of Life,2018,Action,English,USA,6.1,157,119773,166
+Percy Jackson & the Olympians: The Lightning Thief,2003,Adventure,English,UK,7.7,217,172807,162
+Ice Age: Continental Drift,2017,Adventure,English,USA,5.2,233,249000,88
+The Campaign,1994,Comedy,English,USA,9.2,255,166629,178
+Seventh Son,2019,Action,English,USA,8.3,175,132811,100
+Cinderella,1994,Drama,English,USA,4.5,343,235246,152
+The Lord of the Rings: The Two Towers,2001,Action,English,USA,6.3,294,246046,107
+Finding Nemo,2005,Adventure,English,USA,8.8,301,197233,141
+The Lord of the Rings: The Return of the King,2015,Action,English,USA,9.2,328,127445,86
+The Flowers of War,2015,Drama,Mandarin,China,6.6,136,45772,159
+The Fifth Element,2010,Action,English,France,7.4,173,352037,95
+Jurassic Park III,2022,Action,English,USA,4.9,198,323856,176
+The Lord of the Rings: The Fellowship of the Ring,2019,Action,English,New Zealand,9.5,297,146970,83
+Rise of the Planet of the Apes,2012,Action,English,USA,5.3,529,120530,83
+Twister,1999,Action,English,USA,9.2,114,319147,119
+Charlie's Angels,1994,Action,English,USA,7.6,181,400354,96
+Black Hawk Down,2023,Drama,English,USA,7.3,200,7070,131
+Spy Game,2020,Action,English,Germany,6.8,142,331429,172
+The Incredibles,1999,Action,English,USA,5.3,283,9610,131
+Tropic Thunder,2008,Action,English,USA,5,308,499615,115
+The Expendables 2,2021,Action,English,USA,5.2,383,79641,117
+A Good Day to Die Hard,1990,Action,English,USA,5,412,12615,129
+Die Hard with a Vengeance,1994,Action,English,USA,8.3,148,39562,142
+Contact,1993,Drama,English,USA,5.9,159,285555,142
+Men in Black,2005,Adventure,English,USA,4.3,175,104561,141
+Volcano,2013,Action,English,USA,9.3,84,295200,178
+Enemy of the State,2005,Action,English,USA,8.9,81,471847,86
+Meet Joe Black,1991,Drama,English,USA,9.1,98,390979,106
+Mighty Joe Young,2017,Action,English,USA,9.5,35,,171
+Mulan,2021,Adventure,English,USA,5,143,306397,165
+Toy Story 2,2016,Adventure,English,USA,6.2,191,476527,93
+Cast Away,2009,Adventure,English,USA,8.2,221,398186,150
+Gone in Sixty Seconds,2013,Action,English,USA,7.8,175,122363,165
+Mission to Mars,2001,Adventure,English,USA,4.8,181,272869,84
+Rush Hour 2,2022,Action,English,USA,8.5,127,123508,134
+Town & Country,2022,Comedy,English,Philliphines,5.2,62,154768,81
+The Haunted Mansion,2001,Comedy,English,USA,5.2,122,106323,141
+The Stepford Wives,1992,Comedy,English,USA,7,169,276313,170
+Flags of Our Fathers,1990,Drama,English,USA,7.3,279,431096,100
+The Departed,2022,Crime,English,USA,7.2,352,387042,158
+The Spiderwick Chronicles,1999,Adventure,English,USA,4.5,198,111177,100
+You Don't Mess with the Zohan,2018,Action,English,USA,8.8,198,247458,89
+Ice Age: Dawn of the Dinosaurs,2002,Action,English,USA,5.5,188,48820,166
+Sherlock Holmes,2001,Action,English,USA,4.7,415,441130,137
+The Nutcracker in 3D,2020,Action,English,UK,8.9,47,497258,118
+Rio,1991,Adventure,English,USA,9.3,240,147149,84
+The Girl with the Dragon Tattoo,2012,Crime,English,USA,8.7,517,125854,144
+Percy Jackson: Sea of Monsters,2006,Adventure,English,USA,8.5,183,88509,92
+The Secret Life of Walter Mitty,2015,Adventure,English,USA,7.6,362,257937,164
+The Expendables 3,1997,Action,English,USA,7,320,449125,169
+Alvin and the Chipmunks: The Road Chip,2018,Adventure,English,USA,4.5,70,29125,164
+Cutthroat Island,1992,Action,English,USA,5.3,61,161428,129
+Cinderella Man,1999,Biography,English,USA,6,201,286733,161
+The Brothers Grimm,2015,Action,English,USA,5.4,233,36987,124
+Pixels,2023,Action,English,USA,8,253,459554,111
+Seabiscuit,1996,Drama,English,USA,6.7,175,228571,115
+xXx: State of the Union,1993,Action,English,USA,4.4,77,373092,160
+The Devil's Own,2000,Action,English,USA,5.2,66,488511,178
+Arthur and the Invisibles,2018,Adventure,,France,7.8,101,312782,139
+Air Force One,2014,Action,English,USA,4.4,142,174395,90
+What Dreams May Come,2010,Drama,English,USA,8.7,121,430924,142
+The 13th Warrior,1999,Action,English,USA,6.7,85,316705,100
+102 Dalmatians,1998,Adventure,English,USA,6.6,84,424375,131
+Ocean's Eleven,2013,Crime,English,USA,7.3,186,101876,134
+Collateral Damage,2007,Action,English,USA,8.5,135,425606,105
+The Rundown,2021,Action,English,USA,5.9,151,341778,147
+Memoirs of a Geisha,2013,Drama,English,USA,7.7,229,309699,113
+Open Season,2012,Adventure,English,USA,7.1,107,243841,131
+The Fast and the Furious: Tokyo Drift,2021,Action,English,USA,5.5,158,282152,161
+The Holiday,2001,Comedy,English,USA,8.8,157,436003,178
+Enchanted,2002,Animation,English,USA,8.4,222,472632,172
+Ocean's Thirteen,2012,Crime,English,USA,7.6,238,158556,131
+Hellboy II: The Golden Army,2014,Action,English,USA,8.7,345,110669,108
+Jumper,2019,Action,English,USA,8.8,238,270769,117
+It's Complicated,2006,Comedy,English,USA,7.9,187,36559,121
+Cats & Dogs: The Revenge of Kitty Galore,2009,Action,English,USA,8.6,91,463285,100
+Hotel Transylvania,2014,Animation,English,USA,7.8,256,103909,121
+Mirror Mirror,2011,Adventure,English,USA,7.7,382,410803,92
+Cutthroat Island,1992,Action,English,USA,5.3,61,161428,129
+Divergent,2008,Adventure,English,USA,8.1,459,454292,96
+I Served the King of England,2001,Comedy,Czech,Czech Republic,4.9,99,204956,88
+Scooby-Doo,2008,Adventure,English,USA,8.8,138,218700,120
+Son of the Mask,2001,Comedy,English,USA,8.8,78,111779,80
+RED 2,1998,Action,English,USA,4.2,234,466176,81
+Over the Hedge,1993,Adventure,English,USA,9.3,166,366540,103
+The 6th Day,2017,Action,English,USA,4.7,170,119016,127
+The Longest Yard,2003,Comedy,English,USA,5.8,134,478866,108
+Sucker Punch,2020,Action,English,USA,8.1,435,197596,176
+The Little Prince,2008,Adventure,English,France,4.9,119,433598,89
+Bruce Almighty,2005,Comedy,English,USA,8.5,191,419639,137
+Batman Returns,1994,Action,English,USA,8.6,153,376688,139
+Daylight,2001,Action,English,USA,6.8,61,233049,100
+Mission: Impossible,2014,Action,English,USA,4,154,29665,107
+Ransom,2010,Crime,English,USA,5.6,79,67703,154
+Space Jam,2012,Adventure,English,USA,7.4,46,485465,113
+Face/Off,2005,Action,English,USA,9.4,155,266758,87
+Flubber,2003,Comedy,English,USA,7.5,53,458681,138
+The Postman,2020,Action,English,USA,5.4,79,,165
+Babe: Pig in the City,1994,Adventure,English,Australia,7.5,61,335941,151
+Lost in Space,2012,Action,English,USA,7,102,359296,128
+Fantasia 2000,2018,Animation,English,USA,8.3,129,361948,158
+The Haunting,2000,Fantasy,English,USA,4.6,167,245514,96
+Little Nicky,2007,Comedy,English,USA,8.2,87,156998,139
+Thirteen Days,2001,Drama,English,USA,7,162,18272,166
+Bandits,1998,Comedy,English,USA,9.3,132,366398,167
+Swordfish,1999,Action,English,USA,5.9,166,266356,124
+Lilo & Stitch,2006,Adventure,English,USA,7.5,180,395083,162
+Road to Perdition,1996,Crime,English,USA,9.1,226,238889,148
+Spirit: Stallion of the Cimarron,2002,Adventure,English,USA,4.6,106,115642,111
+The Time Machine,1998,Action,English,USA,9.2,124,92236,123
+Looney Tunes: Back in Action,2016,Adventure,English,Germany,7.8,101,52424,144
+S.W.A.T.,1991,Action,English,USA,4.4,144,4226,166
+Something's Gotta Give,1994,Comedy,English,USA,5.7,145,351796,87
+Timeline,2018,Action,English,USA,7.9,123,28223,156
+Meet the Fockers,2008,Comedy,English,USA,4.4,141,389613,151
+Scooby-Doo 2: Monsters Unleashed,1997,Adventure,English,USA,7.2,94,234682,166
+Spanglish,1990,Comedy,English,USA,5.9,124,363138,122
+The Manchurian Candidate,2011,Drama,English,USA,7.4,209,140680,80
+The Great Raid,2006,Action,Filipino,USA,4.3,81,209286,130
+The Interpreter,1996,Crime,Aboriginal,UK,8.8,227,36143,103
+Ice Age: The Meltdown,2014,Action,English,USA,9.4,164,162896,178
+Over the Hedge,1993,Adventure,English,USA,9.3,166,366540,103
+The Invasion,1995,Sci-Fi,English,USA,8.1,232,214932,96
+Bedtime Stories,2020,Comedy,English,USA,4.7,144,140499,84
+Eagle Eye,2008,Action,English,USA,8.2,215,356324,99
+Over the Hedge,1993,Adventure,English,USA,9.3,166,366540,103
+Get Smart,1999,Action,English,USA,4.1,265,416159,137
+The Day the Earth Stood Still,2015,Drama,English,USA,5.8,276,80473,110
+Nine,2008,Drama,English,USA,6.7,205,326093,179
+Surrogates,1992,Action,English,USA,8.2,258,110334,90
+Edge of Darkness,2002,Crime,English,UK,7.8,258,236886,131
+Grown Ups,2017,Comedy,English,USA,6.5,179,470459,94
+Legend of the Guardians: The Owls of Ga'Hoole,2009,Action,English,USA,5.5,188,453949,162
+Shutter Island,2017,Mystery,English,USA,9.5,490,288181,86
+The Book of Eli,1997,Action,English,USA,6.3,325,495009,107
+The Expendables,1990,Action,English,USA,6.5,424,340220,130
+Yogi Bear,1992,Adventure,English,USA,4.9,143,108022,137
+Just Go with It,2002,Comedy,English,USA,8.4,204,23112,84
+The Hangover Part II,2017,Comedy,English,USA,7.8,383,225549,84
+Zookeeper,2014,Comedy,English,USA,5.2,178,269115,173
+Grown Ups 2,2022,Comedy,English,USA,4.5,139,167203,175
+Walking with Dinosaurs 3D,1995,Adventure,English,USA,7.7,113,240569,87
+Pompeii,2021,Action,English,Canada,7.6,272,223631,143
+Hotel Transylvania 2,2010,Animation,English,USA,5.5,152,31848,89
+Cold Mountain,2005,Adventure,English,USA,9.2,198,196304,117
+Jack and Jill,2010,Comedy,English,USA,4.8,156,263821,175
+Journey 2: The Mysterious Island,2000,Action,English,USA,6.4,178,136332,171
+Red Dragon,2008,Crime,English,Germany,9.2,210,295423,160
+The League of Extraordinary Gentlemen,2009,Action,English,USA,6.3,202,284280,174
+The Hunger Games,2007,Adventure,English,USA,7.5,673,82389,87
+Cloudy with a Chance of Meatballs 2,2003,Animation,English,USA,6.2,169,54051,104
+The Zombie kingdom ,2004,Comedy,French,France,5.5,242,405272,152
+The Adventures of Rocky & Bullwinkle,2020,Adventure,English,USA,9.4,49,421314,145
+2 Fast 2 Furious,1990,Action,English,USA,6.3,150,143135,158
+Children of Men,1992,Drama,English,USA,8.9,372,47319,129
+Despicable Me 2,2005,Animation,English,USA,5.3,306,336414,146
+Independence Day,2012,Action,English,USA,5.2,185,,128
+The Rock,2000,Action,English,USA,4.2,122,420682,115
+Alien: Resurrection,2001,Action,English,USA,7.6,223,213281,147
+Con Air,1999,Action,English,USA,6,139,453605,157
+Conspiracy Theory,2021,Action,English,USA,8.8,80,158559,120
+Deep Impact,2005,Action,English,USA,6.6,125,341358,168
+Soldier,1997,Action,English,UK,9.3,67,498590,141
+Sphere,2001,Drama,English,USA,5,108,,89
+Anna and the King,2013,Drama,English,USA,8.8,91,25096,100
+Inspector Gadget,,Action,English,USA,8.3,70,426890,115
+Titan A.E.,1997,Action,English,USA,8.2,,326750,91
+Unbreakable,2017,Drama,English,USA,8.6,294,463683,
+Vertical Limit,2015,Action,English,USA,8.2,134,59682,81
+X-Men,1997,Action,English,USA,7.4,290,487016,92
+Monkeybone,2017,Animation,English,USA,4.7,74,349807,132
